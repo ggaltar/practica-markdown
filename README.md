@@ -31,3 +31,10 @@ Miguel de Cervantes (1605)
 ## Hipervínculos
 [Enlace al sitio de la UNA](https://www.una.ac.cr/)
 
+# HTML
+<h1>Encabezado de nivel 1</h1>
+<h2>Encabezado de nivel 1</h2>
+...
+<h6>Encabezado de nivel 1</h6>
+
+
