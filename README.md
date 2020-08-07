@@ -31,6 +31,9 @@ Miguel de Cervantes (1605)
 ## Hipervínculos
 [Enlace al sitio de la Universidad Nacional (UNA)](https://www.una.ac.cr/)
 
+## Imágenes
+![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 # HTML
 <h1>Encabezado de nivel 1</h1>
 <h2>Encabezado de nivel 2</h2>
