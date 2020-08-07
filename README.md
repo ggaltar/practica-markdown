@@ -33,6 +33,8 @@ Miguel de Cervantes (1605)
 
 ## Imágenes
 ![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![](python-logo-master-v3-TM.png)
+
 
 # HTML
 <h1>Encabezado de nivel 1</h1>
