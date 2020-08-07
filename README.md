@@ -29,7 +29,7 @@ _**Otro texto en negrita e itálica**_
 Miguel de Cervantes (1605)
 
 ## Hipervínculos
-[Enlace al sitio de la UNA](https://www.una.ac.cr/)
+[Enlace al sitio de la Universidad Nacional (UNA)](https://www.una.ac.cr/)
 
 # HTML
 <h1>Encabezado de nivel 1</h1>
@@ -38,4 +38,4 @@ Miguel de Cervantes (1605)
 <h6>Encabezado de nivel 6</h6>
 <strong>Texto en negrita</strong>
 <em>Texto en itálica</em>
-<a href="https://www.una.ac.cr/">
+<a href="https://www.una.ac.cr/">Sitio de la Universidad Nacional (UNA)</a>
