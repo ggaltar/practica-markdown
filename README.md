@@ -36,5 +36,6 @@ Miguel de Cervantes (1605)
 <h2>Encabezado de nivel 2</h2>
 ...
 <h6>Encabezado de nivel 6</h6>
+<strong>Texto en negrita</strong>
 
 
