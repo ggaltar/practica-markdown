@@ -33,8 +33,8 @@ Miguel de Cervantes (1605)
 
 # HTML
 <h1>Encabezado de nivel 1</h1>
-<h2>Encabezado de nivel 1</h2>
+<h2>Encabezado de nivel 2</h2>
 ...
-<h6>Encabezado de nivel 1</h6>
+<h6>Encabezado de nivel 6</h6>
 
 
